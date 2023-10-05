@@ -1,12 +1,12 @@
 {
   "background_color": "#ffffff",
-  "description": "Spacecraft Journey By Gem Studio",
+  "description": "Spacecraft Journey:3D By Snacks Games Dev",
   "dir": "ltr",
   "display": "standalone",
-  "name": "Spacecraft Journey",
+  "name": "Spacecraft Journey:3D",
   "orientation": "any",
   "scope": "/",
-  "short_name": "Spacecraft Journey",
+  "short_name": "Spacecraft Journey:3D",
   "start_url": "/",
   "theme_color": "#ffffff",
   "categories": [
@@ -48,7 +48,7 @@
   ],
   "shortcuts": [
     {
-      "name": "Spacecraft Journey",
+      "name": "Spacecraft Journey:3D",
       "url": "",
       "description": ""
     }
